@@ -1,0 +1,78 @@
+body{
+    background-color: #000;
+}
+.hero{
+    align-items: center;
+    background-color: darkblue;
+    margin: 15px;
+    padding: 55px;
+}
+.main-title{
+    text-align: center;
+    color: cyan;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-transform: uppercase;
+    font-size: xx-large;
+}
+.page-link{
+    text-align: center;
+    font-size: x-large;
+    text-transform: uppercase;
+    background-color: cyan;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.page-link2{
+    padding-left: 30px;
+}
+a{
+    text-decoration: none;
+    color: darkblue;
+}
+.nav-bar{
+    width: auto;
+ 
+}
+.form{
+    display: flex;
+    align-items: center;
+    border-color: cyan;
+    width: auto;
+    color: #fff;
+}
+.form-field{
+    margin: 0 auto;
+    border-color: cyan;
+    font-size: 20px;
+}
+.table{
+    border-color: #fff;
+    padding: 10px; 
+}
+.tab-2{
+    background-color: cyan;
+    border-color: #ffff;
+    color: darkblue;
+    margin: 15px auto;
+}
+.questions{
+    margin: 35px auto;
+    color: #fff;
+    padding: 15px;
+}
+li{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: underline;
+    text-decoration-color: cyan;
+}
+p{
+    font-size: 25px;
+}
+
+footer{
+    color: #fff;
+    text-align: center;
+}
+.footer-link{
+    color: #fff;
+}
